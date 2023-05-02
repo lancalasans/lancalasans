@@ -1,4 +1,4 @@
-# 👋 I'm Elaine Calasans de Souza.Nickname: Lanlan | Olá, sou a Elaine Calasans de Souza. Apelido: Lanlan
+# 👋 I'm Elaine Calasans de Souza. Nickname: Lanlan | Olá, sou a Elaine Calasans de Souza. 
 
                  🚀 Me desenvolvendo como FullStack Jr. | Linguagens: Java e Angular 🚀
  
