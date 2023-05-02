@@ -17,12 +17,7 @@
 
   
 
-  📚  <b>Referências:</b>
-  
-   1.  [GitHub Pages](https://docs.github.com/pt).
-   2.  [Bageds](https://dev.to/envoy_/150-badges-for-github-pnk).
-   3.  [DIO](https://web.dio.me/home).
-   4.  [Rafaella](https://www.youtube.com/c/rafaellaballerini).
+
     
 
   
