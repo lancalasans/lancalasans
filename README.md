@@ -1,6 +1,6 @@
 # 👋 I'm Elaine Calasans de Souza. Nickname: Lanlan | Olá, sou a Elaine Calasans de Souza. 
 
-  ## Techonology Stack's
+  ## Technology Stack's
 
 <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>    <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />  <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />    <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />    <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" /> <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
 <img align="center" alt="Lanlan" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
